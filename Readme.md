@@ -4,7 +4,7 @@ I'm a web developer based in Singapore. My interest lies in creating simple and 
 
 ### Languages:
 
-- <img src="images/html5.svg" width="40" > HTML5 
+- <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="30" > HTML5 
 - <img src="images/css3.svg" height="30">CSS3 
 - Javascript
 - MySql
