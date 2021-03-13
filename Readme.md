@@ -4,8 +4,8 @@ I'm a web developer based in Singapore. My interest lies in creating simple and 
 
 ### Languages:
 
-- HTML5 <img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="40" alt="HTML5 Powered with CSS3 / Styling, and Semantics" title="HTML5 Powered with CSS3 / Styling, and Semantics"> ![Html5Logo ](https://raw.githubusercontent.com/superchrisho/superchrisho/main/images/css3.svg)
-- CSS3
+- HTML5 <img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="40" alt="HTML5 Powered with CSS3 / Styling, and Semantics" > ![Html5Logo ]()
+- CSS3 <img src="./images/css3.svg" width="25">
 - Javascript
 - MySql
 
