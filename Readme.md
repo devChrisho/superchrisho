@@ -5,7 +5,7 @@ I'm a web developer based in Singapore. My interest lies in creating simple and 
 ### Languages:
 
 - <img src="images/html5.svg" height="25" > HTML5 
-- <img src="images/css3.svg" height="25">CSS3 
+- <img src="images/css3.svg" height="30">CSS3 
 - Javascript
 - MySql
 
