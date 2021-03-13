@@ -4,7 +4,7 @@ I'm a web developer based in Singapore. My interest lies in creating simple and 
 
 ### Languages:
 
-- <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="30" > HTML5 
+- <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="20" > HTML5 
 - <img src="images/css3.svg" height="30">CSS3 
 - Javascript
 - MySql
@@ -21,3 +21,4 @@ I'm a web developer based in Singapore. My interest lies in creating simple and 
   - Styled-Components
   - React Native
 - jQuery
+- <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height="20"> SASS
